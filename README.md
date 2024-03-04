@@ -1,1 +1,4 @@
 # STM32_PS2-controller
+
+PlayStation2のコントローラ信号を読み取るためのプログラム
+STM32のHALで開発
